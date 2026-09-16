@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sajjadicap786-hue.github.io/Twin-City-Digitalhub/sitemap.xml
