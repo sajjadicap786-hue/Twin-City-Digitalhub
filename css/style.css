@@ -15,7 +15,7 @@ a{text-decoration:none;color:inherit}
 .btn{display:inline-block;padding:12px 20px;border-radius:10px;background:linear-gradient(135deg,var(--primary),var(--secondary));color:#fff!important;font-weight:700;border:0;cursor:pointer;box-shadow:0 8px 18px rgba(37,99,235,.18)}
 .btn:hover{transform:translateY(-1px)}
 .btn-outline{background:#fff!important;color:var(--primary)!important;border:1px solid #bfdbfe;box-shadow:none}
-.hero{padding:92px 0 78px;background:linear-gradient(135deg,#eff6ff,#f5f3ff)}
+.hero{padding:92px 0 78px;background:radial-gradient(circle at 82% 18%,rgba(124,58,237,.22),transparent 34%),radial-gradient(circle at 8% 88%,rgba(14,165,233,.18),transparent 32%),linear-gradient(135deg,#e7f1ff 0%,#eef2ff 44%,#f5eefe 100%)}
 .hero-grid{display:grid;grid-template-columns:1.15fr .85fr;gap:55px;align-items:center}
 .eyebrow{color:var(--primary);font-weight:800;text-transform:uppercase;letter-spacing:.08em;font-size:.82rem}
 .hero h1{font-size:clamp(2.4rem,5vw,4.4rem);line-height:1.08;margin:14px 0 20px}
@@ -104,9 +104,9 @@ a{text-decoration:none;color:inherit}
 }
 
 /* Professional image-led hero system */
-.page-hero{position:relative;overflow:hidden;padding:82px 0;background:linear-gradient(135deg,#eef6ff 0%,#f7f3ff 55%,#fff 100%)}
-.page-hero::before{content:"";position:absolute;width:420px;height:420px;border-radius:50%;background:rgba(37,99,235,.10);filter:blur(70px);top:-250px;left:-100px}
-.page-hero::after{content:"";position:absolute;width:360px;height:360px;border-radius:50%;background:rgba(124,58,237,.11);filter:blur(70px);right:-150px;bottom:-230px}
+.page-hero{position:relative;overflow:hidden;padding:82px 0;background:radial-gradient(circle at 88% 12%,rgba(124,58,237,.24),transparent 34%),radial-gradient(circle at 5% 92%,rgba(14,165,233,.20),transparent 32%),linear-gradient(135deg,#e4f0ff 0%,#edf1ff 46%,#f4eafd 100%)}
+.page-hero::before{content:"";position:absolute;width:420px;height:420px;border-radius:50%;background:rgba(37,99,235,.16);filter:blur(70px);top:-250px;left:-100px}
+.page-hero::after{content:"";position:absolute;width:360px;height:360px;border-radius:50%;background:rgba(124,58,237,.18);filter:blur(70px);right:-150px;bottom:-230px}
 .page-hero .container{position:relative;z-index:1;display:grid;grid-template-columns:minmax(0,1.05fr) minmax(360px,.95fr);align-items:center;gap:64px}
 .page-hero-copy{max-width:680px}
 .page-hero h1{font-size:clamp(2.5rem,4.4vw,4.25rem);line-height:1.08;letter-spacing:-.035em;margin:14px 0 18px}
