@@ -25,8 +25,6 @@ const HERO_IMAGES={
   'graphic-design.html':['https://images.unsplash.com/photo-1561070791-2526d30994b5?auto=format&fit=crop&w=1100&q=82','Graphic designer creating brand visuals'],
   'youtube-marketing.html':['https://images.unsplash.com/photo-1492724441997-5dc865305da7?auto=format&fit=crop&w=1100&q=82','Video production setup for audience growth'],
   'ai-digital-marketing.html':['https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1100&q=82','Artificial intelligence visualization for modern marketing'],
-  'digital-marketing-rawalpindi.html':['https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=1100&q=82','Local business team discussing growth'],
-  'digital-marketing-islamabad.html':['https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1100&q=82','Modern professional office for Islamabad businesses'],
   'portfolio.html':['https://images.unsplash.com/photo-1558655146-d09347e92766?auto=format&fit=crop&w=1100&q=82','Creative digital project portfolio on a desk'],
   'blog.html':['https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=1100&q=82','Digital marketing research and writing workspace'],
   'contact.html':['https://images.unsplash.com/photo-1423666639041-f56000c27a9a?auto=format&fit=crop&w=1100&q=82','Professional responding to a business enquiry'],
